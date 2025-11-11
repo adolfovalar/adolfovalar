@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am a passionate software developer focused on building scalable web technologies and automating complex processes. My current focus is on the fascinating world of Artificial Intelligence, where I explore and apply models using Ollama and RAG techniques to build smarter solutions.
 
+I have solid experience across the entire software development lifecycle (SDLC), from designing architectures (both monolithic and microservices) and implementing containerization, to configuring Linux servers. I enjoy working across the full stack to transform ideas into functional and efficient products.
 <!--
 **adolfovalar/adolfovalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
