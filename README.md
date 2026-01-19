@@ -1,7 +1,5 @@
 ## Hi there 👋
-I am a passionate software developer focused on building scalable web technologies and automating complex processes. My current focus is on the fascinating world of Artificial Intelligence, where I explore and apply models using Ollama and RAG techniques to build smarter solutions.
-
-I have solid experience across the entire software development lifecycle (SDLC), from designing architectures (both monolithic and microservices) and implementing containerization, to configuring Linux servers. I enjoy working across the full stack to transform ideas into functional and efficient products.
+AI Engineer & Backend Specialist (Python, FastAPI) focused on building production-grade intelligent systems. I combine robust backend architecture with advanced AI integrations, orchestrating local agents via Ollama, RAG, and the Model Context Protocol (MCP). Leveraging my unique background in Applied Linguistics, I optimize NLP workflows and prompt engineering, deploying scalable, containerized solutions using Docker and Linux for high-performance inference. 
 <!--
 **adolfovalar/adolfovalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
