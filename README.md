@@ -1,5 +1,5 @@
 ## Hi there 👋
-Backend Engineer specialized in building robust RESTful APIs using Python, FastAPI, and PostgreSQL. I have experience navigating both monolithic and microservices architectures, ensuring efficient deployment via Docker and Linux. With a unique background in Applied Linguistics, I am currently expanding my technical scope by exploring and implementing practical AI integrations (Ollama, RAG, MCP) to enhance backend systems, aiming to deliver high-quality code and immediate value.
+Backend Engineer specialized in building robust RESTful APIs using Python, FastAPI, and PostgreSQL. I have experience developing and maintaining both monolithic and microservices architectures, ensuring efficient deployment via Docker and Linux. With a unique background in Applied Linguistics, I am currently expanding my technical scope by exploring and implementing practical AI integrations (RAG, Ollama, MCP) to enhance backend systems, aiming to deliver high-quality code and production-ready solutions.
 <!--
 **adolfovalar/adolfovalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
