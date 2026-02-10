@@ -1,5 +1,5 @@
 ## Hi there 👋
-AI Engineer | Backend Engineer (Python, FastAPI) focused on building production-grade intelligent systems. I combine robust backend architecture with advanced AI integrations, orchestrating local agents via Ollama, RAG, and the Model Context Protocol (MCP). Leveraging my unique background in Applied Linguistics, I optimize NLP workflows and prompt engineering, deploying scalable, containerized solutions using Docker and Linux for high-performance inference. 
+Backend Engineer specialized in building robust RESTful APIs using Python, FastAPI, and PostgreSQL. I have experience navigating both monolithic and microservices architectures, ensuring efficient deployment via Docker and Linux. With a unique background in Applied Linguistics, I am currently expanding my technical scope by exploring and implementing practical AI integrations (Ollama, RAG, MCP) to enhance backend systems, aiming to deliver high-quality code and immediate value.
 <!--
 **adolfovalar/adolfovalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
